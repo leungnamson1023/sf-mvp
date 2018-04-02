@@ -1,0 +1,217 @@
+.start {
+  height: 100px;
+  width: 600px;
+  position: relative;
+  bottom: 550px;
+  left: 500px;
+  color: white;
+  font-size: 20px;
+  background-color: black;
+  background-blend-mode: multiply;
+  border-radius: 15px;
+  border-color: black;
+}
+
+
+.select {
+  background-color: black;
+  position: relative;
+  left: 95px;
+  bottom: 100px;
+}
+
+#app {
+  background-color: black;
+}
+
+.ryu {
+  position: relative;
+  width: 60px;
+  height: 58px;
+  right: 1140px;
+  bottom: 168px;
+}
+
+.ken {
+  position: relative;
+  width: 60px;
+  height: 58px;
+  bottom: 168px;
+  right: 260px;
+}
+
+.guile {
+  position: relative;
+  width: 60px;
+  height: 55px;
+  bottom: 162px;
+  left: 140px;
+}
+
+.zangief {
+  position: relative;
+  width: 60px;
+  height: 55px;
+  bottom: 162px;
+  left: 1020px;
+}
+
+.akuma {
+  position: relative;
+  width: 55px;
+  height: 54px;
+  bottom: 225px;
+  left: 900px;
+}
+
+.blanka {
+  position: relative;
+  width: 55px;
+  height: 54px;
+  bottom: 225px;
+  left: 30px;
+}
+
+.chunli {
+  position: relative;
+  width: 55px;
+  height: 54px;
+  bottom: 165px;
+  right: 25px;
+}
+
+.honda {
+  position: relative;
+  width: 55px;
+  height: 54px;
+  bottom: 163px;
+  left: 735px;
+}
+
+.bison {
+  position: relative;
+  width: 55px;
+  height: 54px;
+  bottom: 100px;
+  left: 745px;
+}
+
+.dhalsim {
+  position: relative;
+  width: 55px;
+  height: 54px;
+  bottom: 100px;
+  left: 625px;
+}
+
+.balrog {
+  position: relative;
+  width: 55px;
+  height: 54px;
+  bottom: 100px;
+  right: 310px;
+}
+
+.dan {
+  position: relative;
+  width: 55px;
+  height: 54px;
+  bottom: 100px;
+  right: 300px;
+}
+
+.rGif {
+  position: relative;
+  width: 200px;
+  height: 250px;
+  bottom: 620px;
+  left: 120px;
+}
+
+.kGif {
+  position: relative;
+  width: 200px;
+  height: 250px;
+  bottom: 870px;
+  left: 960px;
+}
+
+.gGif {
+  position: relative;
+  width: 200px;
+  height: 250px;
+  bottom: 620px;
+  left: 120px;
+}
+
+.bGif {
+  position: relative;
+  width: 200px;
+  height: 250px;
+  bottom: 870px;
+  left: 960px;
+}
+
+.aGif {
+  position: relative;
+  width: 200px;
+  height: 250px;
+  bottom: 870px;
+  left: 960px;
+}
+
+.cGif {
+  position: relative;
+  width: 200px;
+  height: 250px;
+  bottom: 620px;
+  left: 120px;
+}
+
+.hGif {
+  position: relative;
+  width: 200px;
+  height: 250px;
+  bottom: 870px;
+  left: 960px;
+}
+
+.dGif {
+  position: relative;
+  width: 200px;
+  height: 250px;
+  bottom: 870px;
+  left: 960px;
+}
+
+.baGif {
+  position: relative;
+  width: 200px;
+  height: 250px;
+  bottom: 620px;
+  left: 120px;
+}
+
+.zGif {
+  position: relative;
+  width: 200px;
+  height: 250px;
+  bottom: 870px;
+  left: 960px;
+}
+
+.dGif {
+  position: relative;
+  width: 200px;
+  height: 250px;
+  bottom: 620px;
+  left: 120px;
+}
+
+.blGif {
+  position: relative;
+  width: 200px;
+  height: 250px;
+  bottom: 620px;
+  left: 120px;
+}
